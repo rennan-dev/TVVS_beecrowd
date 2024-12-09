@@ -447,7 +447,7 @@
 
 <h3>Principais Conclusões:</h3>
 <ul>
-    <li><strong>Funcionalidades bem-sucedidas:</strong> As funcionalidades "Favoritar Problema" e "Sair do Sistema" foram reconhecidas como intuitivas e eficazes, não apresentando problemas significativos.</li>
+    <li><strong>Funcionalidades bem-sucedidas:</strong> As funcionalidades "Favoritar Problema" e "Sair do Sistema" foram reconhecidas como eficazes, não apresentando problemas significativos.</li>
 </ul>
 
 <h3>Pontos de melhoria:</h3>
