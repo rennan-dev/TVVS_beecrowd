@@ -417,8 +417,8 @@
             <td>Eficiência de uso (redução de produtividade por dificuldade de acesso a informações importantes)</td>
         </tr>
         <tr>
-            <td>Indicar Amigo</td>
-            <td>Não sabiam e-mail ou nome de usuário</td>
+            <td>Adicionar Amigo</td>
+            <td>Não souberam o local para poder adicionar um amigo</td>
             <td>Satisfação (frustração ao tentar usar a funcionalidade e baixa facilidade de aprendizado devido à falta de opções claras)</td>
         </tr>
         <tr>
@@ -433,7 +433,7 @@
         </tr>
         <tr>
             <td>Buscar por Universidade</td>
-            <td>Sem dificuldades</td>
+            <td>Dificuldade em saber o local de buscar por universidade</td>
             <td>Facilidade de aprendizado (interação intuitiva)</td>
         </tr>
         <tr>
