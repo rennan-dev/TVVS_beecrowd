@@ -30,7 +30,7 @@
     <p>
         Este relatório apresenta o planejamento, execução e análise dos resultados, abordando tanto os dados quantitativos (tempo gasto, 
         número de erros, confusões e pedidos de ajuda) quanto os qualitativos (feedback verbal e observações). Além disso, recomendações 
-        para a melhoria do sistema são fornecidas com base nos problemas identificados durante a interação dos participantes com as 
+        para a melhoria no sistema são fornecidas com base nos problemas identificados durante a interação dos participantes com as 
         funcionalidades avaliadas.
     </p>
 </section>
