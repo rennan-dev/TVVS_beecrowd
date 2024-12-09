@@ -23,7 +23,7 @@
         no sistema, permitindo à equipe de avaliação coletar insights valiosos.
     </p>
     <p>
-        O teste foi realizado remotamente, utilizando o Google Meet, e contou com a participação de quatro usuários representativos, 
+        O teste foi realizado remotamente, utilizando o Google Meet e Discord, e contou com a participação de quatro usuários representativos, 
         divididos entre iniciantes e intermediários. Esses participantes foram selecionados considerando critérios como experiência prévia 
         em programação e familiaridade com plataformas digitais similares.
     </p>
@@ -62,9 +62,9 @@
         <li>Submeter a Resolução de Problema.</li>
         <li>Favoritar Problema.</li>
         <li>Acessar Problemas Resolvidos.</li>
-        <li>Indicar Amigo.</li>
-        <li>Buscar por uma Universidade.</li>
-        <li>Consultar Ranking.</li>
+        <li>Adicionar Amigo.</li>
+        <li>Buscar uma Universidade por nome.</li>
+        <li>Consultar Ranking de Universidades.</li>
         <li>Sair do Sistema.</li>
     </ul>
 </section>
@@ -72,7 +72,7 @@
 <h2>5. Etapas do Processo de Teste</h2>
 <h2>Preparação</h2>
 <p>
-    A preparação do teste começou com uma orientação inicial, e foi realizada via Google Meet, na qual foram explicados os objetivos do teste e a aplicação da técnica Think Aloud.
+    A preparação do teste começou com uma orientação inicial, e foi realizada via Google Meet/Discord, na qual foram explicados os objetivos do teste e a aplicação da técnica Think Aloud.
 </p>
 <p>
     A preparação para o teste foi realizada em três etapas principais, descritas a seguir:
@@ -95,9 +95,6 @@
 </p>
 <p>
     O teste piloto foi realizado como uma etapa preliminar para validar o planejamento do teste de usabilidade. Ele teve como objetivo garantir a clareza na redação das tarefas propostas, estimar o tempo necessário para cada sessão e identificar possíveis ajustes no fluxo de trabalho. Durante essa etapa, foi possível observar a execução das tarefas pelo participante em condições controladas e realizar melhorias no roteiro para o teste principal. Além disso, o piloto forneceu um ponto de dados adicional para enriquecer a análise final. A sessão foi acompanhada remotamente pela equipe utilizando o Google Meet, permitindo capturar as interações dos participantes em tempo real. 
-</p>
-<p>
-    A imagem abaixo ilustra um momento do teste piloto, mostrando a interação dos usuários com o sistema Beecrowd e a interface da ferramenta utilizada para a comunicação.
 </p>
 
 <h2>Execução</h2>
@@ -326,7 +323,7 @@
 
 <h4>Login ou Cadastro no Sistema</h4>
 <ul>
-    <li><strong>Problema:</strong> O e-mail de ativação não chegou para alguns usuários.</li>
+    <li><strong>Problema:</strong> O e-mail de ativação demorou para chegar para alguns usuários.</li>
     <li><strong>Impacto:</strong> Impede o acesso inicial ao sistema, causando frustração e abandono.</li>
     <li><strong>Recomendação:</strong> Implementar um sistema de reenvio automático de e-mail e instruções claras para verificação na pasta de spam.</li>
 </ul>
@@ -352,11 +349,18 @@
     <li><strong>Recomendação:</strong> Criar uma aba dedicada e visível no menu principal para "Problemas Resolvidos".</li>
 </ul>
 
-<h4>Indicar Amigo</h4>
+<h4>Adicionar Amigo</h4>
 <ul>
-    <li><strong>Problema:</strong> Alguns usuários não sabiam o nome de usuário ou e-mail dos amigos.</li>
+    <li><strong>Problema:</strong> Usuários tiveram dificulade de encontrar barra de busca da opção.</li>
     <li><strong>Impacto:</strong> Reduz o engajamento e uso da funcionalidade.</li>
-    <li><strong>Recomendação:</strong> Permitir compartilhamento via link direto, eliminando a necessidade de inserir e-mail ou nome.</li>
+    <li><strong>Recomendação:</strong> Ofercer opção de adicionar amigos na página de amigos.</li>
+</ul>
+
+<h4>Buscar uma Universidade por nome</h4>
+<ul>
+    <li><strong>Problema:</strong> Usuários tiveram dificulade de encontrar barra de busca da opção.</li>
+    <li><strong>Impacto:</strong> Reduz o engajamento e uso da funcionalidade.</li>
+    <li><strong>Recomendação:</strong> Oferecer uma barra de busca mais intuitiva e visível.</li>
 </ul>
 
 <h4>Consultar Ranking</h4>
@@ -372,12 +376,6 @@
 <ul>
     <li><strong>Resultado:</strong> Os usuários conseguiram favoritar problemas sem dificuldades.</li>
     <li><strong>Análise:</strong> Não requer melhorias imediatas.</li>
-</ul>
-
-<h4>Buscar por uma Universidade</h4>
-<ul>
-    <li><strong>Resultado:</strong> Usuários conseguiram localizar as universidades.</li>
-    <li><strong>Análise:</strong> Funcionalidade eficaz e intuitiva.</li>
 </ul>
 
 <h4>Sair do Sistema</h4>
@@ -398,7 +396,7 @@
     <tbody>
         <tr>
             <td>Login ou Cadastro no Sistema</td>
-            <td>E-mail de ativação não chegou</td>
+            <td>E-mail de ativação demorou para chegar para alguns usuários</td>
             <td>Eficiência de uso (tempo para concluir a tarefa e dificuldade de iniciar o uso do sistema)</td>
         </tr>
         <tr>
@@ -432,7 +430,7 @@
             <td>Satisfação (os usuários consideraram a funcionalidade intuitiva e eficiente)</td>
         </tr>
         <tr>
-            <td>Buscar por Universidade</td>
+            <td>Buscar Universidade por nome</td>
             <td>Dificuldade em saber o local de buscar por universidade</td>
             <td>Facilidade de aprendizado (interação intuitiva)</td>
         </tr>
@@ -449,13 +447,13 @@
 
 <h3>Principais Conclusões:</h3>
 <ul>
-    <li><strong>Funcionalidades bem-sucedidas:</strong> As funcionalidades "Favoritar Problema", "Buscar por Universidade" e "Sair do Sistema" foram reconhecidas como intuitivas e eficazes, não apresentando problemas significativos.</li>
+    <li><strong>Funcionalidades bem-sucedidas:</strong> As funcionalidades "Favoritar Problema" e "Sair do Sistema" foram reconhecidas como intuitivas e eficazes, não apresentando problemas significativos.</li>
 </ul>
 
 <h3>Pontos de melhoria:</h3>
 <ul>
     <li>Problemas relacionados ao fluxo inicial (cadastro e login) e à navegação no sistema precisam de ajustes para reduzir a frustração e aumentar a produtividade.</li>
-    <li>Certas funcionalidades, como "Submeter Resolução" e "Consultar Ranking", carecem de melhor clareza e orientação para os usuários.</li>
+    <li>Certas funcionalidades, como "Adicionar Amigos", "Buscar Universidade por nome" e "Consultar Ranking", carecem de melhor clareza e orientação para os usuários.</li>
     <li>Oferecer um atalho para problemas favoritos e explicações no ranking.</li>
 </ul>
 
