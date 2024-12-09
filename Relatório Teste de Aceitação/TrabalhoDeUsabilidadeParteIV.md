@@ -151,9 +151,9 @@
     </thead>
     <tbody>
         <tr><td>T1</td><td>Usuário 1</td><td>195</td><td>0</td><td>1</td><td>0</td></tr>
-        <tr><td>T1</td><td>Usuário 2</td><td>216</td><td>0</td><td>0</td><td>0</td></tr>
-        <tr><td>T1</td><td>Usuário 3</td><td>1085</td><td>0</td><td>0</td><td>1</td></tr>
-        <tr><td>T1</td><td>Usuário 4</td><td>570</td><td>2</td><td>0</td><td>1</td></tr>
+        <tr><td>T1</td><td>Usuário 2</td><td>144</td><td>0</td><td>0</td><td>0</td></tr>
+        <tr><td>T1</td><td>Usuário 3</td><td>122</td><td>0</td><td>0</td><td>0</td></tr>
+        <tr><td>T1</td><td>Usuário 4</td><td>15</td><td>0</td><td>0</td><td>0</td></tr>
     </tbody>
 </table>
 
@@ -171,9 +171,9 @@
     </thead>
     <tbody>
         <tr><td>T2</td><td>Usuário 1</td><td>250</td><td>0</td><td>2</td><td>0</td></tr>
-        <tr><td>T2</td><td>Usuário 2</td><td>507</td><td>5</td><td>2</td><td>4</td></tr>
-        <tr><td>T2</td><td>Usuário 3</td><td>813</td><td>1</td><td>4</td><td>4</td></tr>
-        <tr><td>T2</td><td>Usuário 4</td><td>1875</td><td>3</td><td>4</td><td>2</td></tr>
+        <tr><td>T2</td><td>Usuário 2</td><td>183</td><td>0</td><td>2</td><td>0</td></tr>
+        <tr><td>T2</td><td>Usuário 3</td><td>190</td><td>0</td><td>2</td><td>0</td></tr>
+        <tr><td>T2</td><td>Usuário 4</td><td>330</td><td>1</td><td>2</td><td>0</td></tr>
     </tbody>
 </table>
 
@@ -191,9 +191,9 @@
     </thead>
     <tbody>
         <tr><td>T3</td><td>Usuário 1</td><td>175</td><td>0</td><td>2</td><td>2</td></tr>
-        <tr><td>T3</td><td>Usuário 2</td><td>1736</td><td>2</td><td>1</td><td>4</td></tr>
-        <tr><td>T3</td><td>Usuário 3</td><td>1294</td><td>4</td><td>5</td><td>2</td></tr>
-        <tr><td>T3</td><td>Usuário 4</td><td>1951</td><td>5</td><td>0</td><td>1</td></tr>
+        <tr><td>T3</td><td>Usuário 2</td><td>87</td><td>0</td><td>0</td><td>0</td></tr>
+        <tr><td>T3</td><td>Usuário 3</td><td>69</td><td>0</td><td>1</td><td>0</td></tr>
+        <tr><td>T3</td><td>Usuário 4</td><td>138</td><td>0</td><td>0</td><td>2</td></tr>
     </tbody>
 </table>
 
@@ -211,9 +211,9 @@
     </thead>
     <tbody>
         <tr><td>T4</td><td>Usuário 1</td><td>13</td><td>0</td><td>0</td><td>0</td></tr>
-        <tr><td>T4</td><td>Usuário 2</td><td>1094</td><td>0</td><td>3</td><td>2</td></tr>
-        <tr><td>T4</td><td>Usuário 3</td><td>1113</td><td>0</td><td>3</td><td>3</td></tr>
-        <tr><td>T4</td><td>Usuário 4</td><td>767</td><td>0</td><td>2</td><td>1</td></tr>
+        <tr><td>T4</td><td>Usuário 2</td><td>33</td><td>0</td><td>0</td><td>0</td></tr>
+        <tr><td>T4</td><td>Usuário 3</td><td>10</td><td>0</td><td>0</td><td>0</td></tr>
+        <tr><td>T4</td><td>Usuário 4</td><td>14</td><td>0</td><td>0</td><td>0</td></tr>
     </tbody>
 </table>
 
@@ -231,13 +231,13 @@
     </thead>
     <tbody>
         <tr><td>T5</td><td>Usuário 1</td><td>28</td><td>1</td><td>1</td><td>1</td></tr>
-        <tr><td>T5</td><td>Usuário 2</td><td>1977</td><td>1</td><td>3</td><td>1</td></tr>
-        <tr><td>T5</td><td>Usuário 3</td><td>980</td><td>1</td><td>0</td><td>5</td></tr>
-        <tr><td>T5</td><td>Usuário 4</td><td>414</td><td>0</td><td>3</td><td>0</td></tr>
+        <tr><td>T5</td><td>Usuário 2</td><td>14</td><td>0</td><td>0</td><td>0</td></tr>
+        <tr><td>T5</td><td>Usuário 3</td><td>5</td><td>0</td><td>0</td><td>0</td></tr>
+        <tr><td>T5</td><td>Usuário 4</td><td>12</td><td>0</td><td>0</td><td>0</td></tr>
     </tbody>
 </table>
 
-<h2>T6: Indicar Amigo</h2>
+<h2>T6: Adicionar Amigo</h2>
 <table>
     <thead>
         <tr>
@@ -251,9 +251,9 @@
     </thead>
     <tbody>
         <tr><td>T6</td><td>Usuário 1</td><td>165</td><td>9</td><td>1</td><td>0</td></tr>
-        <tr><td>T6</td><td>Usuário 2</td><td>269</td><td>1</td><td>0</td><td>0</td></tr>
-        <tr><td>T6</td><td>Usuário 3</td><td>460</td><td>1</td><td>4</td><td>4</td></tr>
-        <tr><td>T6</td><td>Usuário 4</td><td>250</td><td>3</td><td>2</td><td>0</td></tr>
+        <tr><td>T6</td><td>Usuário 2</td><td>206</td><td>9</td><td>1</td><td>0</td></tr>
+        <tr><td>T6</td><td>Usuário 3</td><td>60</td><td>2</td><td>0</td><td>0</td></tr>
+        <tr><td>T6</td><td>Usuário 4</td><td>343</td><td>12</td><td>3</td><td>0</td></tr>
     </tbody>
 </table>
 
@@ -271,9 +271,9 @@
     </thead>
     <tbody>
         <tr><td>T7</td><td>Usuário 1</td><td>171</td><td>7</td><td>1</td><td>1</td></tr>
-        <tr><td>T7</td><td>Usuário 2</td><td>1702</td><td>0</td><td>0</td><td>0</td></tr>
-        <tr><td>T7</td><td>Usuário 3</td><td>1784</td><td>0</td><td>0</td><td>0</td></tr>
-        <tr><td>T7</td><td>Usuário 4</td><td>1670</td><td>0</td><td>0</td><td>0</td></tr>
+        <tr><td>T7</td><td>Usuário 2</td><td>35</td><td>0</td><td>0</td><td>0</td></tr>
+        <tr><td>T7</td><td>Usuário 3</td><td>34</td><td>1</td><td>0</td><td>0</td></tr>
+        <tr><td>T7</td><td>Usuário 4</td><td>240</td><td>5</td><td>1</td><td>1</td></tr>
     </tbody>
 </table>
 
@@ -291,9 +291,9 @@
     </thead>
     <tbody>
         <tr><td>T8</td><td>Usuário 1</td><td>20</td><td>0</td><td>0</td><td>0</td></tr>
-        <tr><td>T8</td><td>Usuário 2</td><td>1760</td><td>0</td><td>5</td><td>3</td></tr>
-        <tr><td>T8</td><td>Usuário 3</td><td>1154</td><td>3</td><td>5</td><td>4</td></tr>
-        <tr><td>T8</td><td>Usuário 4</td><td>992</td><td>3</td><td>0</td><td>1</td></tr>
+        <tr><td>T8</td><td>Usuário 2</td><td>8</td><td>0</td><td>0</td><td>0</td></tr>
+        <tr><td>T8</td><td>Usuário 3</td><td>5</td><td>0</td><td>0</td><td>0</td></tr>
+        <tr><td>T8</td><td>Usuário 4</td><td>4</td><td>0</td><td>0</td><td>0</td></tr>
     </tbody>
 </table>
 
@@ -311,9 +311,9 @@
     </thead>
     <tbody>
         <tr><td>T9</td><td>Usuário 1</td><td>8</td><td>0</td><td>0</td><td>0</td></tr>
-        <tr><td>T9</td><td>Usuário 2</td><td>175</td><td>0</td><td>0</td><td>1</td></tr>
-        <tr><td>T9</td><td>Usuário 3</td><td>1310</td><td>0</td><td>0</td><td>1</td></tr>
-        <tr><td>T9</td><td>Usuário 4</td><td>1882</td><td>0</td><td>0</td><td>0</td></tr>
+        <tr><td>T9</td><td>Usuário 2</td><td>3</td><td>0</td><td>0</td><td>0</td></tr>
+        <tr><td>T9</td><td>Usuário 3</td><td>3</td><td>0</td><td>0</td><td>0</td></tr>
+        <tr><td>T9</td><td>Usuário 4</td><td>5</td><td>0</td><td>0</td><td>0</td></tr>
     </tbody>
 </table>
 
