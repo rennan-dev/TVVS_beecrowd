@@ -99,7 +99,7 @@
     Um teste inicial foi realizado para verificar o fluxo e ajustes necessários.
 </p>
 <p>
-    O teste piloto foi realizado como uma etapa preliminar para validar o planejamento do teste de usabilidade. Ele teve como objetivo garantir a clareza na redação das tarefas propostas, estimar o tempo necessário para cada sessão e identificar possíveis ajustes no fluxo de trabalho. Durante essa etapa, foi possível observar a execução das tarefas pelo participante em condições controladas e realizar melhorias no roteiro para o teste principal. Além disso, o piloto forneceu um ponto de dados adicional para enriquecer a análise final. A sessão foi acompanhada remotamente pela equipe utilizando o Google Meet, permitindo capturar as interações dos participantes em tempo real. 
+    O teste piloto foi realizado como uma etapa preliminar para validar o planejamento do teste de usabilidade. Ele teve como objetivo garantir a clareza na redação das tarefas propostas, estimar o tempo necessário para cada sessão e identificar possíveis ajustes no fluxo de trabalho. Durante essa etapa, foi possível observar a execução das tarefas pelo participante em condições controladas e realizar melhorias no roteiro para o teste principal. Além disso, o piloto forneceu um ponto de dados adicional para enriquecer a análise final. A sessão foi acompanhada remotamente pela equipe utilizando o Google Meet/Discord, permitindo capturar as interações dos participantes em tempo real. 
 </p>
 
 <h2>Execução</h2>
