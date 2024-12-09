@@ -39,6 +39,8 @@ Ao assinar este termo, declaro que:
 
 **Assinatura:** 
 
+<img src="./../images/assinatura-raissa.png" alt="Assinatura Raissa" width="150" style="vertical-align: middle;">
+
 **Data:** 08 / 12 / 2024
 
 #### **Contato para Dúvidas:**
