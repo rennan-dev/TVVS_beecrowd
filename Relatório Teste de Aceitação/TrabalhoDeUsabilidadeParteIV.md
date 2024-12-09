@@ -4,7 +4,7 @@
     <h1>Relatório de Teste de Usabilidade</h1>
     <p><strong>Sistema Avaliado:</strong> Beecrowd</p>
     <p><strong>Data do Teste:</strong> 06/12/2024</p>
-    <p><strong>Ferramenta Utilizada:</strong> Google Meet</p>
+    <p><strong>Ferramenta Utilizada:</strong> Google Meet e Discord</p>
     <p><strong>Equipe Responsável:</strong> Alicia Caldeira da Silva, Diandre Pires Bruce e Rennan de Souza Alves</p>
 </header>
 
